@@ -1,0 +1,307 @@
+{
+    data =     {
+        "current_time" = 1428483903;
+        deals =         (
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 2;
+                    "last_update" = 0;
+                    name = Restaurant;
+                };
+                "category_id" = 2;
+                "created_at" = 0;
+                description = "Come claim a free beer at Oasis as you watch the national championship game! Just show your claimed beer to the cashier and you are all set!";
+                distance = "18.53066646016147";
+                "end_time" = "19:45";
+                "expire_time" = 1428522300;
+                id = 82;
+                "last_update" = 0;
+                picture = "http://fourbrothersurbanbistro.com/wp-content/uploads/2013/03/draft-beer-banner.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 6;
+                "start_time" = "17:30";
+                "starting_time" = 1428514200;
+                title = "Free Draft Beer";
+                venue =                 {
+                    address = "241 El Camino Real Menlo Park, CA 94025";
+                    "created_at" = 0;
+                    id = 82;
+                    "last_update" = 0;
+                    latitude = "37.4485";
+                    longitude = "-122.175";
+                    name = "The Oasis";
+                };
+                "venue_id" = 82;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 2;
+                    "last_update" = 0;
+                    name = Restaurant;
+                };
+                "category_id" = 2;
+                "created_at" = 0;
+                description = "Get them while they're hot";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 2;
+                "last_update" = 0;
+                picture = "https://s3.amazonaws.com/f.cl.ly/items/46192X2F2A2q1A0r400l/Image%202015-03-29%20at%209.11.37%20PM.png";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Sweet Potato Fries";
+                venue =                 {
+                    address = "261 University Ave, Palo Alto, CA 94301";
+                    "created_at" = 0;
+                    id = 2;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Hummus Shop";
+                };
+                "venue_id" = 2;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 2;
+                    "last_update" = 0;
+                    name = Restaurant;
+                };
+                "category_id" = 2;
+                "created_at" = 0;
+                description = "Fresh seaweed salad, get them while they last!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 12;
+                "last_update" = 0;
+                picture = "http://www.splendidtable.org/sites/default/files/styles/lede_image/public/wakame.jpg?itok=N5BsVgnW";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Seaweed Salad";
+                venue =                 {
+                    address = "448 University Ave, Palo Alto, CA 94301";
+                    "created_at" = 0;
+                    id = 12;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Sushi Bar";
+                };
+                "venue_id" = 12;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 2;
+                    "last_update" = 0;
+                    name = Restaurant;
+                };
+                "category_id" = 2;
+                "created_at" = 0;
+                description = "Fresh and sweet baklava!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 22;
+                "last_update" = 0;
+                picture = "http://www.olidadrachten.nl/wp-content/uploads/2012/08/baklava1.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Baklava";
+                venue =                 {
+                    address = "2323 Birch St, Palo Alto, CA 94306";
+                    "created_at" = 0;
+                    id = 22;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Turkish Restaurant";
+                };
+                "venue_id" = 22;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 32;
+                    "last_update" = 0;
+                    name = Coffee;
+                };
+                "category_id" = 32;
+                "created_at" = 0;
+                description = "Delicious Apple Pie, who doesn't want them?";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 32;
+                "last_update" = 0;
+                picture = "http://s3.amazonaws.com/gmi-digital-library/a7a5665b-4b49-4454-91fd-95291cd3b433.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Apple Pie";
+                venue =                 {
+                    address = "538 Ramona St, Palo Alto, CA 94301";
+                    "created_at" = 0;
+                    id = 32;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Coffee Bar";
+                };
+                "venue_id" = 32;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 12;
+                    "last_update" = 0;
+                    name = "Health & Fitness";
+                };
+                "category_id" = 12;
+                "created_at" = 0;
+                description = "Become relaxed and motivated!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 42;
+                "last_update" = 0;
+                picture = "http://i.huffpost.com/gen/1796535/images/o-YOGA-facebook.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Yoga Class";
+                venue =                 {
+                    address = "2995 Middlefield Rd, Palo Alto, CA 94306";
+                    "created_at" = 0;
+                    id = 42;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Yoga Center";
+                };
+                "venue_id" = 42;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 12;
+                    "last_update" = 0;
+                    name = "Health & Fitness";
+                };
+                "category_id" = 12;
+                "created_at" = 0;
+                description = "Build up your strength and test your limits!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 52;
+                "last_update" = 0;
+                picture = "http://maxoxygencrossfit.com/wp-content/uploads/2015/03/crossfit-fuengirola-slide01.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free CrossFit Class";
+                venue =                 {
+                    address = "3516 El Camino Real, Palo Alto, CA 94306";
+                    "created_at" = 0;
+                    id = 52;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = CrossFit;
+                };
+                "venue_id" = 52;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 22;
+                    "last_update" = 0;
+                    name = Activities;
+                };
+                "category_id" = 22;
+                "created_at" = 0;
+                description = "With butter!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 62;
+                "last_update" = 0;
+                picture = "http://upload.wikimedia.org/wikipedia/commons/0/09/Popcorn02.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Popcorn";
+                venue =                 {
+                    address = "221 University Ave, Palo Alto, CA 94301";
+                    "created_at" = 0;
+                    id = 62;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Movie Theatre";
+                };
+                "venue_id" = 62;
+            },
+                        {
+                category =                 {
+                    "created_at" = 0;
+                    id = 22;
+                    "last_update" = 0;
+                    name = Activities;
+                };
+                "category_id" = 22;
+                "created_at" = 0;
+                description = "Enjoy bowling with your friends!";
+                distance = "3345.861059312495";
+                "end_time" = "23:59";
+                "expire_time" = 1428537540;
+                id = 72;
+                "last_update" = 0;
+                picture = "http://perfectbowling.com/wp-content/uploads/2013/07/bowling_ball.jpg";
+                price = 0;
+                quantity = 99;
+                "quantity_left" = 0;
+                "start_time" = "10:00";
+                "starting_time" = 1428487200;
+                title = "Free Hour of Bowling";
+                venue =                 {
+                    address = "4329 El Camino Real, Palo Alto, CA 94306";
+                    "created_at" = 0;
+                    id = 72;
+                    "last_update" = 0;
+                    latitude = "42.3314";
+                    longitude = "-83.0458";
+                    name = "Bowling Alley";
+                };
+                "venue_id" = 72;
+            }
+        );
+        next = 1;
+    };
+    message = "<null>";
+    success = 1;
+}
